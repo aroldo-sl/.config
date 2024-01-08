@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=terminator
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[de_DE]=terminator
+Comment[de_DE]=Keine Beschreibung
+X-GNOME-Autostart-Delay=0
