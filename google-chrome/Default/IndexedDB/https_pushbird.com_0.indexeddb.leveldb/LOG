@@ -1,6 +1,0 @@
-2023/04/06-14:10:51.397 1460d Creating DB /home/aroldo/.config/google-chrome/Default/IndexedDB/https_pushbird.com_0.indexeddb.leveldb since it was missing.
-2023/04/06-14:10:51.402 1460d Reusing MANIFEST /home/aroldo/.config/google-chrome/Default/IndexedDB/https_pushbird.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/06-14:11:23.418 1460e Level-0 table #5: started
-2023/04/06-14:11:23.419 1460e Level-0 table #5: 802 bytes OK
-2023/04/06-14:11:23.421 1460e Delete type=0 #3
-2023/04/06-14:11:23.421 1460e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

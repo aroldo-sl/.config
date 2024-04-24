@@ -1,7 +1,0 @@
-# GIMP action-history
-
-(history-item "file-print-gtk" 0)
-(history-item "edit-cut" 0)
-(history-item "file-quit" 1)
-
-# end of action-history
