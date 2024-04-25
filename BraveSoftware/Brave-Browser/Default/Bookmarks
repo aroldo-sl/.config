@@ -1,11 +1,11 @@
 {
-   "checksum": "3f484f903266f1c84195ca83a200e618",
+   "checksum": "20f1612763ed0656ab29aaa9068fd92b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
                "date_added": "13358201030076712",
-               "date_last_used": "0",
+               "date_last_used": "13358445377103692",
                "guid": "7bd22d8c-9f19-49a9-bd48-403b146178af",
                "id": "7",
                "meta_info": {
@@ -16,7 +16,7 @@
                "url": "https://www.volksbank-koeln-bonn.de/services_auth/auth-frontend/?v=f63d7ab132c99722&client_id=fkp&redirect_uri=https:%2F%2Fwww.volksbank-koeln-bonn.de%2Fservices_cloud%2Fportal%2Fportal-oauth%2Flogin"
             }, {
                "date_added": "13358200632143745",
-               "date_last_used": "0",
+               "date_last_used": "13358445475369971",
                "guid": "0e109624-a91d-4224-8f07-5c89f9a086f9",
                "id": "6",
                "meta_info": {
@@ -68,7 +68,7 @@
             "url": "https://github.com/"
          }, {
             "date_added": "13358428765887706",
-            "date_last_used": "0",
+            "date_last_used": "13358436120213270",
             "guid": "2ade816c-6853-46eb-a819-af2d4c079166",
             "id": "13",
             "meta_info": {
@@ -79,7 +79,7 @@
             "url": "https://www.google.de/"
          }, {
             "date_added": "13358428931936071",
-            "date_last_used": "0",
+            "date_last_used": "13358512420151700",
             "guid": "06c4f091-1a3c-410f-8bd4-adf71f33e627",
             "id": "14",
             "meta_info": {
@@ -90,7 +90,7 @@
             "url": "https://odysee.com/$/following"
          }, {
             "date_added": "13358429025466343",
-            "date_last_used": "0",
+            "date_last_used": "13358455311023105",
             "guid": "2821a0ee-d92b-4d54-a230-ccf64e1b1e5e",
             "id": "15",
             "meta_info": {
@@ -110,10 +110,65 @@
             "name": "Python.org",
             "type": "url",
             "url": "https://www.python.org/"
+         }, {
+            "date_added": "13358436130164965",
+            "date_last_used": "13358511645361115",
+            "guid": "7ec0997b-bc9a-43f1-9804-984e7482958f",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13358445038022873",
+            "date_last_used": "0",
+            "guid": "dde1832a-5b9f-4dec-8f2a-e5defe8b4534",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Netto Vingst",
+            "type": "url",
+            "url": "https://www.kaufda.de/Filialen/Koeln/Netto-Marken-Discount-Nobelstrasse-Netto-Marken-Discount/v-f82411536"
+         }, {
+            "date_added": "13358445134304430",
+            "date_last_used": "0",
+            "guid": "7ae22f46-345b-4eb2-88ca-cb281ad7395f",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Penny Osthem",
+            "type": "url",
+            "url": "https://www.meinprospekt.de/koeln/filialen/penny-de/226702"
+         }, {
+            "date_added": "13358452736987782",
+            "date_last_used": "0",
+            "guid": "b087a0df-2c33-4a67-8e1f-6c06309e8276",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "linuxcommand",
+            "type": "url",
+            "url": "https://linuxcommand.org/lc3_adv_termmux.php"
+         }, {
+            "date_added": "13358453268102693",
+            "date_last_used": "0",
+            "guid": "e3e49d6c-c2cb-4691-b3fc-4f23567de41c",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "linuxconfig.org",
+            "type": "url",
+            "url": "https://linuxconfig.org/an-introduction-to-terminal-multiplexers"
          } ],
          "date_added": "13358200362831875",
          "date_last_used": "0",
-         "date_modified": "13358429084300756",
+         "date_modified": "13358453268102693",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Lesezeichen",

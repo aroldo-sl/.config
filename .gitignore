@@ -153,4 +153,6 @@ pulse/
 qt5ct/
 user-dirs.dirs
 user-dirs.locale
-
+enchant/
+libreoffice/
+xed/
