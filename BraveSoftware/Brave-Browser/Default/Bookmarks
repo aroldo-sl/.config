@@ -1,5 +1,5 @@
 {
-   "checksum": "0e3de3e84b360b809b542e76ff920f1d",
+   "checksum": "a17ef9817839504701a115e31ba21c12",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -204,10 +204,32 @@
                "name": "Deepa Kumar:Islamophobia  after 9/11 ",
                "type": "url",
                "url": "https://www.versobooks.com/products/955-islamophobia-and-the-politics-of-empire"
+            }, {
+               "date_added": "13361271067367781",
+               "date_last_used": "0",
+               "guid": "8b1a3d47-e5d8-440f-9f8a-d9d8fdc116b8",
+               "id": "87",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Geschichten aus der Mathematik:Heinz Klaus Strick",
+               "type": "url",
+               "url": "https://www.amazon.de/Geschichten-aus-Mathematik-europ%C3%A4ische-Erwachen/dp/3662669056/ref=sr_1_3_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HCM588848TVW&dib=eyJ2IjoiMSJ9.rCr9kD0xmetJDarJLn2cEeG2hHwg2XKZmyvW0VciXyWNAj8_oXvWEXl8J_roVBTkLFtT1MqlQT3ta6VOpzGql4DipF4UtpqTp7CEl56cIYorTSARfrPViR5oBYa9EHJxXnyyFE9dVMeNkOy7APE3NH1DWT5CAVXXMu9A6WLIDM0UY9hdjsAkjBPt-6cu28fjyCMNQC1I8aqpWaNxoxk256kB__ub4up1mGIJA2uhz20.71zanWjmmtLmzM2W1dn3Wg0ERhsCWzTKLseCk05Cwt0&dib_tag=se&keywords=mathematische+logik&qid=1716797358&s=books&sprefix=mathematisch+logik%2Cstripbooks%2C107&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+            }, {
+               "date_added": "13361271144102125",
+               "date_last_used": "0",
+               "guid": "845334a0-5830-4685-b962-bc4957bd643e",
+               "id": "88",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mathematische Logik:  Martin Ziegler",
+               "type": "url",
+               "url": "https://www.amazon.de/Mathematische-Mathematik-Kompakt-Martin-Ziegler/dp/3319441795/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HCM588848TVW&dib=eyJ2IjoiMSJ9.rCr9kD0xmetJDarJLn2cEeG2hHwg2XKZmyvW0VciXyWNAj8_oXvWEXl8J_roVBTkLFtT1MqlQT3ta6VOpzGql4DipF4UtpqTp7CEl56cIYorTSARfrPViR5oBYa9EHJxXnyyFE9dVMeNkOy7APE3NH1DWT5CAVXXMu9A6WLIDM0UY9hdjsAkjBPt-6cu28fjyCMNQC1I8aqpWaNxoxk256kB__ub4up1mGIJA2uhz20.71zanWjmmtLmzM2W1dn3Wg0ERhsCWzTKLseCk05Cwt0&dib_tag=se&keywords=mathematische+logik&qid=1716797358&s=books&sprefix=mathematisch+logik%2Cstripbooks%2C107&sr=1-5"
             } ],
             "date_added": "13359210340039468",
             "date_last_used": "0",
-            "date_modified": "13359982876999411",
+            "date_modified": "13361271144102125",
             "guid": "5fe0bcb4-cb9f-481c-b847-2763ee8e27b0",
             "id": "46",
             "name": "Bücher",
@@ -448,7 +470,7 @@
             } ],
             "date_added": "13360195369104940",
             "date_last_used": "0",
-            "date_modified": "13360195369106592",
+            "date_modified": "13361271067367781",
             "guid": "52665030-41ef-4002-85a0-fc8aee4b828a",
             "id": "85",
             "name": "Addiction",
