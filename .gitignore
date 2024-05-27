@@ -136,6 +136,7 @@ dmypy.json
 
 # .config
 BraveSoftware/
+!BraveSoftware/Brave-Browser/Default/Bookmarks
 .git-status
 yt-dlp/yt-download-archive.txt
 caja/

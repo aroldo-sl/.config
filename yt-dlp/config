@@ -1,9 +1,10 @@
---yes-playlist
---extract-audio
---audio-format mp3
+--no-playlist
+#--extract-audio
+#--audio-format mp3
+--format mp4
 -o $HOME/yt-downloads/%(playlist)s/%(title)s.%(ext)s
 --restrict-filenames
 --write-description
---download-archive "${XDG_CONFIG_HOME}/yt-dlp/yt-download-archive.txt"
---batch-file "${XDG_CONFIG_HOME}/yt-dlp/yt-download-list.txt"
+--download-archive "$HOME/.config/yt-dlp/yt-download-archive.txt"
+--batch-file "$HOME/.config//yt-dlp/yt-download-list.txt"
 -v
