@@ -4,6 +4,7 @@
 # general
 tmp/
 log/
+*.DELETEME
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
