@@ -1,11 +1,11 @@
 {
-   "checksum": "be3b58d0ec9996febac35cd3d65de231",
+   "checksum": "003ebef36325a12fa683128bc75d9156",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
                "date_added": "13358201030076712",
-               "date_last_used": "13362253841875304",
+               "date_last_used": "13363888340351838",
                "guid": "7bd22d8c-9f19-49a9-bd48-403b146178af",
                "id": "7",
                "meta_info": {
@@ -16,7 +16,7 @@
                "url": "http://www.volksbank-koeln-bonn.de/"
             }, {
                "date_added": "13358200632143745",
-               "date_last_used": "13362253703024698",
+               "date_last_used": "13363888313299001",
                "guid": "0e109624-a91d-4224-8f07-5c89f9a086f9",
                "id": "6",
                "meta_info": {
@@ -35,7 +35,7 @@
             "type": "folder"
          }, {
             "date_added": "13358201278392173",
-            "date_last_used": "13360295673444917",
+            "date_last_used": "13363096220591276",
             "guid": "b5669530-ff69-4d9d-aea2-9bdeb3ece1da",
             "id": "9",
             "meta_info": {
@@ -57,7 +57,7 @@
             "url": "https://www.gmx.net/"
          }, {
             "date_added": "13358428765887706",
-            "date_last_used": "13361721770180204",
+            "date_last_used": "13362399130304421",
             "guid": "2ade816c-6853-46eb-a819-af2d4c079166",
             "id": "13",
             "meta_info": {
@@ -100,7 +100,7 @@
          }, {
             "children": [ {
                "date_added": "13358436130164965",
-               "date_last_used": "13359673746905332",
+               "date_last_used": "13362581308264732",
                "guid": "7ec0997b-bc9a-43f1-9804-984e7482958f",
                "id": "18",
                "meta_info": {
@@ -111,7 +111,7 @@
                "url": "https://www.youtube.com/"
             }, {
                "date_added": "13358429025466343",
-               "date_last_used": "13362265451364686",
+               "date_last_used": "13363902216772005",
                "guid": "2821a0ee-d92b-4d54-a230-ccf64e1b1e5e",
                "id": "15",
                "meta_info": {
@@ -122,7 +122,7 @@
                "url": "https://rumble.com/"
             }, {
                "date_added": "13358428931936071",
-               "date_last_used": "13362233843651652",
+               "date_last_used": "13363903469045390",
                "guid": "06c4f091-1a3c-410f-8bd4-adf71f33e627",
                "id": "14",
                "meta_info": {
@@ -141,7 +141,7 @@
             "type": "folder"
          }, {
             "date_added": "13358943229617127",
-            "date_last_used": "13361523449777185",
+            "date_last_used": "13363880111094341",
             "guid": "0ee930f3-4703-4357-a01c-88670bdb4f34",
             "id": "41",
             "meta_info": {
@@ -152,7 +152,7 @@
             "url": "https://service.winsim.de/"
          }, {
             "date_added": "13358953486026476",
-            "date_last_used": "13361721787894673",
+            "date_last_used": "13363103262459342",
             "guid": "f8029d1e-56bf-48cc-b650-6a37203b4c3b",
             "id": "42",
             "meta_info": {
@@ -404,7 +404,7 @@
             "type": "folder"
          }, {
             "date_added": "13359762159335854",
-            "date_last_used": "13361440821809061",
+            "date_last_used": "13363906382153851",
             "guid": "b36675f9-d70b-462b-b38b-c174d1dc6139",
             "id": "68",
             "meta_info": {
@@ -606,10 +606,43 @@
                   "name": "SystemCrafters GitHub",
                   "type": "url",
                   "url": "https://github.com/SystemCrafters"
+               }, {
+                  "date_added": "13363124060266661",
+                  "date_last_used": "0",
+                  "guid": "96c57889-da66-46b7-be24-bb467e5c987c",
+                  "id": "114",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Emacs initial options",
+                  "type": "url",
+                  "url": "https://www.gnu.org/software/emacs/manual/html_node/emacs/Initial-Options.html"
+               }, {
+                  "date_added": "13363125854594946",
+                  "date_last_used": "0",
+                  "guid": "cd988b51-1c35-4e16-8db8-0e15334d760b",
+                  "id": "115",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "use a file of Elisp code as a script",
+                  "type": "url",
+                  "url": "https://emacs.stackexchange.com/questions/78677/how-can-i-use-a-file-of-elisp-code-as-a-script"
+               }, {
+                  "date_added": "13363173926329427",
+                  "date_last_used": "0",
+                  "guid": "ad832438-eca6-4b72-b959-c69a3327c040",
+                  "id": "117",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "6 things Emacs (opersource.com)",
+                  "type": "url",
+                  "url": "https://opensource.com/article/20/1/emacs-cheat-sheet"
                } ],
                "date_added": "13359810632709047",
                "date_last_used": "0",
-               "date_modified": "13361872026952867",
+               "date_modified": "13363266472161462",
                "guid": "edf54106-f881-40f1-b2bd-ac57a7ce5939",
                "id": "72",
                "name": "Emacs",
@@ -648,18 +681,51 @@
                   "name": "Host a Local Podman Image Registry - The New Stack (thenewstack)",
                   "type": "url",
                   "url": "https://thenewstack.io/tutorial-host-a-local-podman-image-registry/"
+               }, {
+                  "date_added": "13362304245491001",
+                  "date_last_used": "0",
+                  "guid": "7ee6d1a0-4cf2-4c92-9dc0-2e14a9785cf8",
+                  "id": "109",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "skopeo ",
+                  "type": "url",
+                  "url": "https://github.com/containers/skopeo"
+               }, {
+                  "date_added": "13363266472161462",
+                  "date_last_used": "0",
+                  "guid": "82ec04d4-c4f3-4f01-918b-02cb77e5e520",
+                  "id": "119",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SSH from a container to the host OS? - General Discussions - Docker Community Forums",
+                  "type": "url",
+                  "url": "https://forums.docker.com/t/ssh-from-a-container-to-the-host-os/7958"
                } ],
                "date_added": "13361920839523112",
                "date_last_used": "0",
-               "date_modified": "13362298712688825",
+               "date_modified": "13363341118612835",
                "guid": "73fa8098-059e-4046-ada7-bc2ec76b4dfa",
                "id": "106",
                "name": "Containers",
                "type": "folder"
+            }, {
+               "date_added": "13363341118612835",
+               "date_last_used": "0",
+               "guid": "2284d032-ef02-4763-b07f-7d0a6fd59a18",
+               "id": "121",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Set up an SSH Server on a Home Computer - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/zduey/how-to-set-up-an-ssh-server-on-a-home-computer"
             } ],
             "date_added": "13358534597439072",
             "date_last_used": "0",
-            "date_modified": "13361607622854085",
+            "date_modified": "13363341123790436",
             "guid": "3d89b471-9758-43ec-92c0-092e4a17c83c",
             "id": "30",
             "name": "IT",
@@ -804,6 +870,26 @@
             "guid": "30e3a192-8bc5-4047-abeb-ebd1292f5d0a",
             "id": "31",
             "name": "News",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13362595340893514",
+               "date_last_used": "0",
+               "guid": "e6129488-def5-4f2f-aaee-ce1e3de5e6d5",
+               "id": "111",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Wilde Fermentation (Zimt & Chili)",
+               "type": "url",
+               "url": "https://zimtundchili.com/2021/07/07/wilde-fermentation-von-obst-gemuese-und-kohl/"
+            } ],
+            "date_added": "13362595403649968",
+            "date_last_used": "0",
+            "date_modified": "13363124060266661",
+            "guid": "986ca6b5-e784-4438-a01a-1baff4d814ca",
+            "id": "112",
+            "name": "Vegan",
             "type": "folder"
          } ],
          "date_added": "13358200362831878",

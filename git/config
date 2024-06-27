@@ -1,0 +1,7 @@
+[credential]
+	helper = store
+[user]
+	name = Aroldo Souza-Leite
+	email = asouzaleite@gmx.de
+[alias]
+	ci = commit
